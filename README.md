@@ -30,11 +30,7 @@ For the above components, the following libraries were used:<br>
 + [LiquidCrystal I2C library (for HD44780 LCD 20x4)](https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/)
 
 In order to compile and upload the project to an Arduino UNO
-board you must install 
-
-[Arduino IDE](https://www.arduino.cc/en/software	"Arduino IDE")
-
- and the above libraries.
+board you must install [Arduino IDE](https://www.arduino.cc/en/software	"Arduino IDE") and the above libraries.
 
 # Connection Schematic
 
