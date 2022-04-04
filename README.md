@@ -57,26 +57,25 @@ modules and components.
 
 # Price estimate for 100 and 1500 pieces
 
-Prototype price = 34.96 € ~= 35 €
+Prototype price = 34.96 € ~= 35 €<br>
 Arduino UNO costs 5.5 € for 100 pieces, and 4 € for 1000+ pieces
 on Alibaba, also LCD HD44780 costs 3.5€ for 100 pieces and 2€
-for 1000+ pieces. The other components were already very cheap
+for 1000+ pieces.<br> The other components were already very cheap
 so I just calculated the final price relative to the sum of
-arduino+LCD monitor.
-Arduino UNO + LCD prototype price = 31.2 ~= 31 €
-Arduino UNO + LCD bulk price 100 pieces = 9 €
-Arduino UNO + LCD bulk price 1000+ pieces = 6 €
-For 100 pieces, we have 31/9 = 3.4 times less cost
-For 1500 pieces, we have 31/6 = 5.1 times less cost
-Price of 1 in 100 pieces = 10.2 € (35*9/31)
-Price of 1 in 1000+ pieces = 6.8 € (35*6/31)
-6
-Estimate cost for production of 100 units :
-**10.2 * 100 = 102 € Bulk price**
-Estimate cost for production of 1500 units :
-**6.8 * 1500 = 10200 € Bulk price**
+arduino+LCD monitor.<br>
+Arduino UNO + LCD prototype price = 31.2 ~= 31 €<br>
+Arduino UNO + LCD bulk price 100 pieces = 9 €<br>
+Arduino UNO + LCD bulk price 1000+ pieces = 6 €<br>
+For 100 pieces, we have 31/9 = 3.4 times less cost<br>
+For 1500 pieces, we have 31/6 = 5.1 times less cost<br>
+Price of 1 in 100 pieces = 10.2 € (35*9/31)<br>
+Price of 1 in 1000+ pieces = 6.8 € (35*6/31)<br>
+Estimate cost for production of 100 units :<br>
+**10.2 * 100 = 102 € Bulk price**<br>
+Estimate cost for production of 1500 units :<br>
+**6.8 * 1500 = 10200 € Bulk price**<br>
 *Note : The improvised analog sensor was not included in the*
-*BOM but the cost is minimal anyway.*
+*BOM but the cost is minimal anyway.*<br>
 
 # Safe operating temperature
 
