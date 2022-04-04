@@ -1,7 +1,15 @@
-[TOC]
-
-
-
+# Table of contents
+[Project Description](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#project-description)<br>
+[Implementation (hardware and software used)](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#implementation-hardware-and-software-used)<br>
+[Connection Schematic](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#connection-schematic)<br>
+[Build of materials (BOM)](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#build-of-materials-bom)<br>
+[Price estimate for 100 and 1500 pieces](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#price-estimate-for-100-and-1500-pieces)<br>
+[Safe operating temperature](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#safe-operating-temperature)<br>
+[Theoretical Battery life (with a 750 mAh battery)](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#theoretical-battery-life-with-a-750-mah-battery)<br>
+[Actual battery life (with a 750 mAh battery)](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#actual-battery-life-with-a-750-mah-battery)<br>
+[Improvised analog temperature sensor](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#improvised-analog-temperature-sensor)<br>
+[Accuracy of the thermistor](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#accuracy-of-the-thermistor)<br>
+[Pictures](https://github.com/AnthonyThomahawk/Temp-And-Humidity-ES#pictures)<br>
 # Project Description
 
 The project goal is to create an Embedded system that
