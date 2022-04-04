@@ -93,20 +93,21 @@ If we use a 750 mAh battery to power the system, we can expect
 a battery life of about 8 hours and 42 minutes.
 The above was calculated with the formula :<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102604/render.png)
+<br>
 The total system power consumption is estimated at around :
 32 mA(LED screen with backlight) + 48 mA(Arduino UNO) + 0.3
 mA(DHT11) + (12mA/2) (Red LED) = **86.3 mA**
 
 So we get :<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102649/render.png)
-
+<br>
 # Actual battery life (with a 750 mAh battery)
 
 Using a multimeter I measured the actual power consumption of
 the system by connecting the multimeter in series with the 9V
 battery and found it to be 69.9 mA ~= 70 mA on average:<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102683/render.png)
-
+<br>
 # Improvised analog temperature sensor
 
 I managed to make a “home made” analog temperature sensor
@@ -174,6 +175,7 @@ DHT11 digital sensor for comparison.
 
 The original formula was :<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102735/render.png)
+<br>
 but i changed the
 adcVal -1 to adcVal - 0.95 for results much closer to DHT11.
 Same measurements done with the original formula :
