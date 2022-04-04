@@ -192,5 +192,5 @@ Average difference from DHT11 with the modified formula : 0.30
 
 # Pictures
 ![](IMG_20220201_201304.jpg)
-
+<br>
 ![](IMG_20220201_201317.jpg)
