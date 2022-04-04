@@ -201,7 +201,6 @@ Average difference from DHT11 with the original formula : 1.13
 Average difference from DHT11 with the modified formula : 0.30
 
 # Pictures
-![](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 ![](IMG_20220201_201304.jpg)
 
