@@ -114,18 +114,18 @@ battery and found it to be 69.9 mA ~= 70 mA on average:<br>
 I managed to make a “home made” analog temperature sensor
 from a thermistor extracted from a laptop battery pack (from the
 same pack that i used the 18650 battery for my [IoT project](https://github.com/AnthonyThomahawk/GPSTracker-IoT)), they
-are used to detect overheating during charging.I measured the thermistor resistance and it falls with increasing
+are used to detect overheating during charging.<br>I measured the thermistor resistance and it falls with increasing
 temperature so it is a negative temperature coefficient (NTC)
 thermistor.
-It seems like a 10kΩ (at 25C) NTC thermistor like the TDK 810-
+<br>It seems like a 10kΩ (at 25C) NTC thermistor like the TDK 810-
 NTCGP3JH103HCJBA. When I measured it with a multimeter at
 22C room temperature, I got 12kΩ resistance, so am guessing it
 is 10kΩ at 25C.
-Arduino Uno ADC has 10 bit resolution which means 2^10 = 1024
+<br>Arduino Uno ADC has 10 bit resolution which means 2^10 = 1024
 steps so adcMax = 1023.
-Mapping 0V to 5V in 0 to 1023 steps gives us 5/1024 = 4.9mV
+<br>Mapping 0V to 5V in 0 to 1023 steps gives us 5/1024 = 4.9mV
 ADC resolution.
-We will use a voltage divider with a matched resistor (in our case
+<br>We will use a voltage divider with a matched resistor (in our case
 10kΩ resistor for 10kΩ thermistor) and measure the voltage drop
 on the thermistor.
 
