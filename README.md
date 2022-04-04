@@ -92,26 +92,20 @@ range.
 If we use a 750 mAh battery to power the system, we can expect
 a battery life of about 8 hours and 42 minutes.
 The above was calculated with the formula :
-$$
-Battery\ In\ Hours =\ \frac{Battery\ Capacity(in\ mAh)}{Load\ Current (in mA)}
-$$
+![](http://www.sciweavers.org/upload/Tex2Img_1649102604/render.png)
 The total system power consumption is estimated at around :
 32 mA(LED screen with backlight) + 48 mA(Arduino UNO) + 0.3
 mA(DHT11) + (12mA/2) (Red LED) = **86.3 mA**
 
 So we get :
-$$
-Battery\ Life :\ \frac{750mAh}{86.3mA}=8.7h=8h\ and\ 42'
-$$
+![](http://www.sciweavers.org/upload/Tex2Img_1649102649/render.png)
 
 # Actual battery life (with a 750 mAh battery)
 
 Using a multimeter I measured the actual power consumption of
 the system by connecting the multimeter in series with the 9V
 battery and found it to be 69.9 mA ~= 70 mA on average
-$$
-Actual\ Battery\ Life : \frac{750mAh}{70mA} = 10.7h = 10h\ and\ 42'
-$$
+![](http://www.sciweavers.org/upload/Tex2Img_1649102683/render.png)
 
 # Improvised analog temperature sensor
 
@@ -148,9 +142,7 @@ found
 [here]: https://www.jameco.com/z/NTC-103-R-Thermistor-NTC-K-10-10k-Ohm_207037.html
 
  which is :
-$$
-K = \frac{1}{\frac{1}{T0}+\frac{1}{Beta}*ln(\frac{adcMax}{adcVal-0.95})}
-$$
+![](http://www.sciweavers.org/upload/Tex2Img_1649102711/render.png)
 where T0 is room temperature in Kelvin, Beta is the beta constant
 also in kelvin, adcMax is the max steps of Arduino UNO ADC
 which are 1023 and adcVal is the average of 5 values read from
@@ -181,9 +173,7 @@ DHT11 digital sensor for comparison.
 | 3988    | 440          | 0.003433869 | 291.22 | 18.07   | 17.40    | 0.67       |
 
 The original formula was :
-$$
-\frac{1}{\frac{1}{T0}+\frac{1}{Beta}*ln(\frac{adcMax}{adcVal-1})}
-$$
+![](http://www.sciweavers.org/upload/Tex2Img_1649102735/render.png)
 but i changed the
 adcVal -1 to adcVal - 0.95 for results much closer to DHT11.
 Same measurements done with the original formula :
@@ -201,7 +191,6 @@ Average difference from DHT11 with the original formula : 1.13
 Average difference from DHT11 with the modified formula : 0.30
 
 # Pictures
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 ![](IMG_20220201_201304.jpg)
 
 ![](IMG_20220201_201317.jpg)
