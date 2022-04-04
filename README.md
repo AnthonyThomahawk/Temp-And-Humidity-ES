@@ -91,20 +91,20 @@ range.
 
 If we use a 750 mAh battery to power the system, we can expect
 a battery life of about 8 hours and 42 minutes.
-The above was calculated with the formula :
+The above was calculated with the formula :<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102604/render.png)
 The total system power consumption is estimated at around :
 32 mA(LED screen with backlight) + 48 mA(Arduino UNO) + 0.3
 mA(DHT11) + (12mA/2) (Red LED) = **86.3 mA**
 
-So we get :
+So we get :<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102649/render.png)
 
 # Actual battery life (with a 750 mAh battery)
 
 Using a multimeter I measured the actual power consumption of
 the system by connecting the multimeter in series with the 9V
-battery and found it to be 69.9 mA ~= 70 mA on average
+battery and found it to be 69.9 mA ~= 70 mA on average:<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102683/render.png)
 
 # Improvised analog temperature sensor
@@ -141,7 +141,7 @@ found
 
 [here]: https://www.jameco.com/z/NTC-103-R-Thermistor-NTC-K-10-10k-Ohm_207037.html
 
- which is :
+ which is :<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102711/render.png)
 where T0 is room temperature in Kelvin, Beta is the beta constant
 also in kelvin, adcMax is the max steps of Arduino UNO ADC
@@ -172,7 +172,7 @@ DHT11 digital sensor for comparison.
 | 3988    | 460          | 0.003414722 | 292.85 | 19.70   | 19.80    | -0.10      |
 | 3988    | 440          | 0.003433869 | 291.22 | 18.07   | 17.40    | 0.67       |
 
-The original formula was :
+The original formula was :<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102735/render.png)
 but i changed the
 adcVal -1 to adcVal - 0.95 for results much closer to DHT11.
