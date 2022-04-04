@@ -1,7 +1,13 @@
+[TOC]
+
+
+
 # Project Description
+
 The project goal is to create an Embedded system that
 reports temperature (in °C) and humidity (in %) values on an LCD
 screen.
+
 + The system will also feature three Buttons, S1 that when
 held down shows the maximum temperature recorded during the
 session, S2 which performs a hardware reset on the system and
