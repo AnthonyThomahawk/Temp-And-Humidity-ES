@@ -201,7 +201,7 @@ Average difference from DHT11 with the original formula : 1.13
 Average difference from DHT11 with the modified formula : 0.30
 
 # Pictures
-
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 ![](IMG_20220201_201304.jpg)
 
 ![](IMG_20220201_201317.jpg)
