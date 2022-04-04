@@ -112,9 +112,7 @@ battery and found it to be 69.9 mA ~= 70 mA on average:<br>
 
 I managed to make a “home made” analog temperature sensor
 from a thermistor extracted from a laptop battery pack (from the
-same pack that i used the 18650 battery for my 
-
-[IoT project](https://github.com/AnthonyThomahawk/GPSTracker-IoT) , they
+same pack that i used the 18650 battery for my [IoT project](https://github.com/AnthonyThomahawk/GPSTracker-IoT)), they
 are used to detect overheating during charging.I measured the thermistor resistance and it falls with increasing
 temperature so it is a negative temperature coefficient (NTC)
 thermistor.
