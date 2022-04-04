@@ -25,7 +25,7 @@ The modules/components used to achieve the shown results are :<br>
 
 For the above components, the following libraries were used:<br>
 
-+ [DHT sensor library (for DHT11)]: https://www.arduino.cc/reference/en/libraries/dht-sensor-library/
++ [DHT sensor library for DHT11]: https://www.arduino.cc/reference/en/libraries/dht-sensor-library/
 
 + [LiquidCrystal I2C library (for HD44780 LCD 20x4)]: https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/
 
