@@ -25,14 +25,14 @@ The modules/components used to achieve the shown results are :<br>
 
 For the above components, the following libraries were used:<br>
 
-+ [DHT sensor library for DHT11]: https://www.arduino.cc/reference/en/libraries/dht-sensor-library/
++ [DHT sensor library for DHT11](https://www.arduino.cc/reference/en/libraries/dht-sensor-library/)
 
-+ [LiquidCrystal I2C library (for HD44780 LCD 20x4)]: https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/
++ [LiquidCrystal I2C library (for HD44780 LCD 20x4)](https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/)
 
 In order to compile and upload the project to an Arduino UNO
 board you must install 
 
-[Arduino IDE]: https://www.arduino.cc/en/software	"Arduino IDE"
+[Arduino IDE](https://www.arduino.cc/en/software	"Arduino IDE")
 
  and the above libraries.
 
@@ -45,19 +45,19 @@ board you must install
 Points below are hyperlinks leading to the store i bought all
 modules and components.
 
-+ [Arduino UNO - 22 €]: https://www.devobox.com/el/official-boards/1-arduino-uno-rev3.html?search_query=arduino+uno&amp;results=137
++ [Arduino UNO - 22 €](https://www.devobox.com/el/official-boards/1-arduino-uno-rev3.html?search_query=arduino+uno&amp;results=137)
 
-+ [DHT11 sensor - 2.2 €]: https://www.devobox.com/el/enviromental/477-dht11-module-digital-humidity-temperature-sensor.html?search_query=dht11&amp;results=2
++ [DHT11 sensor - 2.2 €](https://www.devobox.com/el/enviromental/477-dht11-module-digital-humidity-temperature-sensor.html?search_query=dht11&amp;results=2)
 
-+ [LCD 20x4, HD44780 - 9.2 €]: https://www.devobox.com/el/lcd/672-lcd-20x4-with-iici2ctwi-spi-blue-backlight-for-arduino-gr.html?search_query=lcd+blue&amp;results=139
++ [LCD 20x4, HD44780 - 9.2 €](https://www.devobox.com/el/lcd/672-lcd-20x4-with-iici2ctwi-spi-blue-backlight-for-arduino-gr.html?search_query=lcd+blue&amp;results=139)))
 
-+ [Pushbutton switches x2 - 0.2 €]: https://www.devobox.com/el/push-buttons/1113-pushbutton-switch-6x6x4mm-gr.html?search_query=push+button&amp;results=103
++ [Pushbutton switches x2 - 0.2 €](https://www.devobox.com/el/push-buttons/1113-pushbutton-switch-6x6x4mm-gr.html?search_query=push+button&amp;results=103))
 
-+ [Red LED - 0.1 €]: https://www.devobox.com/el/led/69-led-red-5mm.html?search_query=Red+LED&amp;results=364
++ [Red LED - 0.1 €](https://www.devobox.com/el/led/69-led-red-5mm.html?search_query=Red+LED&amp;results=364)
 
-+ [Resistors x4 - 0.04 €]: https://electrobot.gr/index.php?route=product/product&amp;product_id=183&amp;skr_prm=WyJiODNmZDA3Mi1lYjBlLTQ4ZTEtOWZmYi03NzlhNmE2YzgyOTUiLDE2NDMyNjYxMTA2NDgseyJhcHBfdHlwZSI6IndlYiIsImNwIjoiYiIsInRhZ3MiOiIifV
++ [Resistors x4 - 0.04 €](https://electrobot.gr/index.php?route=product/product&amp;product_id=183&amp;skr_prm=WyJiODNmZDA3Mi1lYjBlLTQ4ZTEtOWZmYi03NzlhNmE2YzgyOTUiLDE2NDMyNjYxMTA2NDgseyJhcHBfdHlwZSI6IndlYiIsImNwIjoiYiIsInRhZ3MiOiIifV)
 
-+ [9V battery - 1.23 €]: https://www.videophot.gr/index.php?route=product/product&amp;product_id=4545&amp;skr_prm=WyJiODNmZDA3Mi1lYjBlLTQ4ZTEtOWZmYi03NzlhNmE2YzgyOTUiLDE2NDMyNjYyMTkxMDgseyJhcHBfdHlwZSI6IndlYiIsImNwIjoiYiIsInRhZ3MiOiIifV
++ [9V battery - 1.23 €](https://www.videophot.gr/index.php?route=product/product&amp;product_id=4545&amp;skr_prm=WyJiODNmZDA3Mi1lYjBlLTQ4ZTEtOWZmYi03NzlhNmE2YzgyOTUiLDE2NDMyNjYyMTkxMDgseyJhcHBfdHlwZSI6IndlYiIsImNwIjoiYiIsInRhZ3MiOiIifV)
 
 # Price estimate for 100 and 1500 pieces
 
