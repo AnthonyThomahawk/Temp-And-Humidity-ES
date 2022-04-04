@@ -157,13 +157,7 @@ also in kelvin, adcMax is the max steps of Arduino UNO ADC
 which are 1023 and adcVal is the average of 5 values read from
 the thermistor with analogRead().
 
-I used the value 3988 for Beta from the 
-
-[data sheet]: https://product.tdk.com/system/files/dam/doc/product/sensor/ntc/ntc_assy/catalog/sensor_ntc-thermistor_assembly_en.pdf?ref_disty=mouser
-
- of
-NTCGP3JH103HCJBA which looked similar to the thermistor I
-had.
+I used the value 3988 for Beta from the [data sheet](https://product.tdk.com/system/files/dam/doc/product/sensor/ntc/ntc_assy/catalog/sensor_ntc-thermistor_assembly_en.pdf?ref_disty=mouser) of NTCGP3JH103HCJBA which looked similar to the thermistor I had.
 
 # Accuracy of the thermistor
 
