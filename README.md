@@ -49,9 +49,9 @@ modules and components.
 
 + [DHT11 sensor - 2.2 €](https://www.devobox.com/el/enviromental/477-dht11-module-digital-humidity-temperature-sensor.html?search_query=dht11&amp;results=2)
 
-+ [LCD 20x4, HD44780 - 9.2 €](https://www.devobox.com/el/lcd/672-lcd-20x4-with-iici2ctwi-spi-blue-backlight-for-arduino-gr.html?search_query=lcd+blue&amp;results=139)))
++ [LCD 20x4, HD44780 - 9.2 €](https://www.devobox.com/el/lcd/672-lcd-20x4-with-iici2ctwi-spi-blue-backlight-for-arduino-gr.html?search_query=lcd+blue&amp;results=139)
 
-+ [Pushbutton switches x2 - 0.2 €](https://www.devobox.com/el/push-buttons/1113-pushbutton-switch-6x6x4mm-gr.html?search_query=push+button&amp;results=103))
++ [Pushbutton switches x2 - 0.2 €](https://www.devobox.com/el/push-buttons/1113-pushbutton-switch-6x6x4mm-gr.html?search_query=push+button&amp;results=103)
 
 + [Red LED - 0.1 €](https://www.devobox.com/el/led/69-led-red-5mm.html?search_query=Red+LED&amp;results=364)
 
