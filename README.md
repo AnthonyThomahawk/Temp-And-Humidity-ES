@@ -144,6 +144,7 @@ found
 
  which is :<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102711/render.png)
+<br>
 where T0 is room temperature in Kelvin, Beta is the beta constant
 also in kelvin, adcMax is the max steps of Arduino UNO ADC
 which are 1023 and adcVal is the average of 5 values read from
