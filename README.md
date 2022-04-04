@@ -149,11 +149,7 @@ Wiring diagram :
 
 After using the Arduino built in function analogRead() to read and
 convert the voltage to 0-1023 steps, I used the code and formula
-found 
-
-[here]: https://www.jameco.com/z/NTC-103-R-Thermistor-NTC-K-10-10k-Ohm_207037.html
-
- which is :<br>
+found [here](https://www.jameco.com/z/NTC-103-R-Thermistor-NTC-K-10-10k-Ohm_207037.html) which is :<br>
 ![](http://www.sciweavers.org/upload/Tex2Img_1649102711/render.png)
 <br>
 where T0 is room temperature in Kelvin, Beta is the beta constant
