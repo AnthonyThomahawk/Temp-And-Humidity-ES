@@ -186,8 +186,8 @@ Same measurements done with the original formula :
 | 3988    | 468          | 0.00339677  | 294.40 | 21.25   | 20.60    | 0.65       |
 | 3988    | 460          | 0.003404682 | 293.71 | 20.56   | 19.80    | 0.76       |
 | 3988    | 440          | 0.003424581 | 292.01 | 18.86   | 17.40    | 1.46       |
-
-Average difference from DHT11 with the original formula : 1.13
+<br>
+Average difference from DHT11 with the original formula : 1.13<br>
 Average difference from DHT11 with the modified formula : 0.30
 
 # Pictures
