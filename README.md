@@ -9,7 +9,7 @@ an LED (L1) which blinks periodically every 1 second to indicate
 the active state of the system. In addition, the system features a
 self-made analog temperature sensor made with a thermistor
 from a laptop battery pack.
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
 # Implementation (hardware and software used)
 The project has been implemented on the Arduino UNO platform,
 using Arduino IDE.<br>
@@ -201,6 +201,7 @@ Average difference from DHT11 with the original formula : 1.13
 Average difference from DHT11 with the modified formula : 0.30
 
 # Pictures
+![](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 ![](IMG_20220201_201304.jpg)
 
