@@ -1,12 +1,12 @@
 # Project Description
 The project goal is to create an Embedded system that
 reports temperature (in °C) and humidity (in %) values on an LCD
-screen. The system will also feature three Buttons, S1 that when
+screen.<br> The system will also feature three Buttons, S1 that when
 held down shows the maximum temperature recorded during the
 session, S2 which performs a hardware reset on the system and
-S3 that toggles the backlight on the LCD display. It will also have
+S3 that toggles the backlight on the LCD display.<br> It will also have
 an LED (L1) which blinks periodically every 1 second to indicate
-the active state of the system. In addition, the system features a
+the active state of the system.<br> In addition, the system features a
 self-made analog temperature sensor made with a thermistor
 from a laptop battery pack.
 
